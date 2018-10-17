@@ -1,0 +1,11 @@
+[Keys]
+consumer_key = FILL_IN_YOUR_CONSUMER_KEY 
+consumer_serect = FILL_IN_YOUR_CONSUMER_SERECT
+access_token = FILL_IN_YOUR_ACCESS_TOKEN
+access_secret = FILL_IN_YOUR_ACCESS_SECRET
+
+[Mongodb]
+host = FILL_IN_THE_HOST_ADDRESS
+
+[TOPIC]
+topic = trump
